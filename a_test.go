@@ -1,4 +1,4 @@
-package gocustom2
+package jamesgo1
 
 import "testing"
 import "fmt"
